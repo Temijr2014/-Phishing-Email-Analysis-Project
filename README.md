@@ -31,7 +31,7 @@ This project simulates a real-world **Security Operations Center (SOC)** workflo
 - **Sender Address:** info@libreriacies.es
 - **Recipient:** jdgelok@gmail.com
 - **Subject:** Binance Cybersecurity
-- **Date Received:** 
+- **Date Received:**  Tue, 25 Jul 2023 12:47:32
 
 ## Initial suspicion based on:
 
