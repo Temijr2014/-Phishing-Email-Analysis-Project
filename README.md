@@ -71,3 +71,4 @@ Analyzed the full email headers to determine:
 
 ## Findings
 
+![](https://github.com/Temijr2014/-Phishing-Email-Analysis-Project/blob/main/Screenshot_2026-01-11_18_50_10.png?raw=true)
