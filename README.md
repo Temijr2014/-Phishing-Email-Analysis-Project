@@ -35,6 +35,8 @@ This project simulates a real-world **Security Operations Center (SOC)** workflo
 
 ## Initial suspicion based on:
 
+![](https://github.com/Temijr2014/-Phishing-Email-Analysis-Project/blob/main/emailbody%20binance.png?raw=true)
+
 - “Get compensated in Bitcoin”
 Legitimate companies (including Binance) don’t proactively offer compensation in BTC via unsolicited emails.
 
