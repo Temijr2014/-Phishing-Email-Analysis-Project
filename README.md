@@ -35,8 +35,6 @@ This project simulates a real-world **Security Operations Center (SOC)** workflo
 
 ## Initial suspicion based on:
 
-<img width="632" height="581" alt="Image" src="https://github.com/user-attachments/assets/9968d5d9-e873-4898-b16b-272b9f516f58" />
-
 - “Get compensated in Bitcoin”
 Legitimate companies (including Binance) don’t proactively offer compensation in BTC via unsolicited emails.
 
