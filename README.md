@@ -33,7 +33,7 @@ This project simulates a real-world **Security Operations Center (SOC)** workflo
 - **Subject:** Binance Cybersecurity
 - **Date Received:**  Tue, 25 Jul 2023 12:47:32
 
-## Initial suspicion based on:
+## Initial suspicion based on email body:
 
 ![](https://github.com/Temijr2014/-Phishing-Email-Analysis-Project/blob/main/emailbody%20binance.png?raw=true)
 
