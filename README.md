@@ -81,8 +81,8 @@ Analyzed the full email headers to determine:
 
 - Extracted embedded links
 ![](https://github.com/Temijr2014/-Phishing-Email-Analysis-Project/blob/main/Screenshot_2026-01-11_18_47_53.png?raw=true)
--urlscan.io scan
-![]()
+- urlscan.io scan
+![](https://github.com/Temijr2014/-Phishing-Email-Analysis-Project/blob/main/Screenshot_2026-01-11_18_53_22.png?raw=true)
 - Checked reputation on VirusTotal
 ![](https://github.com/Temijr2014/-Phishing-Email-Analysis-Project/blob/main/Screenshot_2026-01-11_18_49_32.png?raw=true)
 
