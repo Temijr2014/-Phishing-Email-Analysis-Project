@@ -83,3 +83,37 @@ Analyzed the full email headers to determine:
 ![](https://github.com/Temijr2014/-Phishing-Email-Analysis-Project/blob/main/Screenshot_2026-01-11_18_47_53.png?raw=true)
 - Checked reputation on VirusTotal
 ![](https://github.com/Temijr2014/-Phishing-Email-Analysis-Project/blob/main/Screenshot_2026-01-11_18_49_32.png?raw=true)
+
+## 🧪 Step 4: Threat Intelligence
+
+- IP reputation checked via Virustotal
+![](https://github.com/Temijr2014/-Phishing-Email-Analysis-Project/blob/main/Screenshot_2026-01-11_19_02_05.png?raw=true)
+- Domain age via WHOIS
+![](https://github.com/Temijr2014/-Phishing-Email-Analysis-Project/blob/main/Domain%20age%20via%20WHOIS.png?raw=true)
+
+## 🎯 Step 5: Classification
+
+Threat Type:
+Phishing (Financial Fraud / Credential Harvesting)
+
+MITRE ATT&CK Mapping:
+- T1566.002 – Spearphishing Link
+- T1204.001 – User Execution: Malicious Link
+
+Severity:
+High
+
+## 🚨 Step 6: SOC Response Actions
+
+- Email quarantined
+- Domain blocked on email gateway
+- User awareness notification sent
+
+## 📝 Conclusion
+
+This project demonstrates how a SOC analyst:
+
+- Investigates suspicious emails
+- Validates threats using multiple tools
+- Documents findings clearly
+- Makes response decisions based on evidence
